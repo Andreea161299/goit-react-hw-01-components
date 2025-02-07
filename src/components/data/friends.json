@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+      "name": "Mihai Popescu",
+      "isOnline": true
+    },
+    {
+      "id": 2,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998671.png",
+      "name": "Ana Ionescu",
+      "isOnline": false
+    },
+    {
+      "id": 3,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998732.png",
+      "name": "George Enescu",
+      "isOnline": true
+    },
+    {
+      "id": 4,
+      "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998702.png",
+      "name": "Maria Dinu",
+      "isOnline": false
+    }
+  ]
+  

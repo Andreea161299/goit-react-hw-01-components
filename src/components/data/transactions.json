@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1a2b3c",
+      "type": "Invoice",
+      "amount": "125.00",
+      "currency": "USD"
+    },
+    {
+      "id": "4d5e6f",
+      "type": "Withdrawal",
+      "amount": "85.50",
+      "currency": "EUR"
+    },
+    {
+      "id": "7g8h9i",
+      "type": "Deposit",
+      "amount": "500.00",
+      "currency": "GBP"
+    },
+    {
+      "id": "10j11k",
+      "type": "Payment",
+      "amount": "250.75",
+      "currency": "USD"
+    }
+  ]
+  
